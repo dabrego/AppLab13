@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppLab13</string>
+    <string name="action_settings">Settings</string>
+    <string name="Actualizar">Actualizar</string>
+    <string name="Insertar">Insertar</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="vista">Consulta</string>
+</resources>
